@@ -5,6 +5,8 @@ Calculadora JS-Bootstrap
 
 <p align="center">Calculadora com quatro funcões criada para o curso de web desenvolvimento da Udemy com HTML, CSS utilizando a biblioteca Boostrap 4 para o layout e a lógica feita em javascript</p>
 
+  <img src="https://github.com/jpm4rtinss/Calculadora-JS-Bootstrap/blob/master/calculadora.PNG" alt="home web"  height="425">
+
 
 ## Features
 
