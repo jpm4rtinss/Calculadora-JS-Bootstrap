@@ -11,7 +11,7 @@ Calculadora JS-Bootstrap
 ## Features
 
 -  **Javascript ES6** 
--  **Bootstrap 4**  
+-  **CSS - Bootstrap 4**  
 -  **Html** 
 
 
