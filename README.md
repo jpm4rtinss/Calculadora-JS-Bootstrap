@@ -1,9 +1,9 @@
 
 <h1 align="center">
-Calculadora JS-Bootstrap
+Calculator JS-Bootstrap
 </h1>
 
-<p align="center">Calculadora com quatro funcões criada para o curso de web desenvolvimento da Udemy com HTML, CSS utilizando a biblioteca Boostrap 4 para o layout e a lógica feita em javascript</p>
+<p align="center">Calculator with four functions created for the Udemy web development course with HTML, CSS using a Boostrap 4 library for layout and logic made in javascript</p>
 
   <img src="https://github.com/jpm4rtinss/Calculadora-JS-Bootstrap/blob/master/calculadora.PNG" alt="home web"  height="425">
 
