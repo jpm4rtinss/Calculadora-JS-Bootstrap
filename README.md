@@ -8,8 +8,7 @@ Calculator JS-Bootstrap
   <img src="https://github.com/jpm4rtinss/Calculadora-JS-Bootstrap/blob/master/calculadora.PNG" alt="home web"  height="425">
 
 
-## Features
-
+## Tech stack
 -  **Javascript ES6** 
 -  **CSS - Bootstrap 4**  
 -  **Html** 
